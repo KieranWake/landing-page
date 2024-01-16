@@ -22,12 +22,18 @@
 }
 
 .title-one {
-    font-size: 2em;
     width: 50%;
+    font-size: 2em;
     display: flex;
     justify-content: flex-start;
     align-items: center;
     color: white;
     padding-right: 1rem;
+}
+
+.section-one {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
 }
 
