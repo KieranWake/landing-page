@@ -4,3 +4,13 @@
     box-sizing: border-box;
 }
 
+.header {
+    background-color: #1F2937;
+    display: flex;
+    align-items: center;
+    min-height: 5rem;
+}
+
+.title-one {
+    color: white;
+}
