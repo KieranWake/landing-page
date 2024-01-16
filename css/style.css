@@ -6,8 +6,6 @@
 
 .header {
     background-color: #1F2937;
-    display: flex;
-    align-items: center;
     min-height: 5rem;
 }
 
@@ -32,8 +30,19 @@
 }
 
 .section-one {
+    width: 100%;
+    background-color:#1F2937;
     display: flex;
     justify-content: center;
     align-items: center; 
 }
 
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.image img {
+    width: 50%;
+}
