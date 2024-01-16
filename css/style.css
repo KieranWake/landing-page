@@ -11,6 +11,19 @@
     min-height: 5rem;
 }
 
-.title-one {
+.header-flex {
     color: white;
+    width: 90%;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 1rem;
+    gap: 1rem;
+}
+
+.title-one {
+    width: 60%;
+    display: flex;
+    justify-content: flex-start;
+    color: white;
+    padding-right: 1rem;
 }
