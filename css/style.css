@@ -34,12 +34,21 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: .5rem;
+    padding: .5rem;
+    flex-direction: column;
+    line-height: 50px;
 }
 
 .image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     order: 1;
+    margin: .8rem;
+    padding: .8rem;
     
 }
 .image img {
-    width: 35%;
+    width: 50%;
 }
