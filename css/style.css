@@ -6,7 +6,8 @@
 
 .header {
     background-color: #1F2937;
-    min-height: 10rem;
+    min-height: 5rem;
+    padding-top: 1rem;
 }
 
 .header-flex {
