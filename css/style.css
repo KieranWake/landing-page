@@ -60,7 +60,8 @@
     
 }
 .image img {
-    width: 50%;
+    max-width: 45%;
+    border-radius: .8rem;
 }
 
 .button-one {
