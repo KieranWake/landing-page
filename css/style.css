@@ -81,5 +81,6 @@
 .section-two {
     background-color: antiquewhite;
     margin-top: 0;
-    
+    min-height: 25rem;
 }
+
