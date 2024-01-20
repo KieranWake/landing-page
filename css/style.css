@@ -93,3 +93,26 @@
     font-size: 2em;
 }
 
+.image-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    margin: 3rem;
+}
+
+.image-one img {
+    max-width: 70%;
+}
+
+.image-two img {
+    max-width: 70%;
+}
+
+.image-three img {
+    max-width: 70%;
+}
+
+.image-four img {
+    max-width: 70%;
+}
