@@ -111,6 +111,7 @@
 
 .image-two img {
     max-height: 12rem;
+    filter: brightness(5) invert(0);
 }
 
 .image-three img {
