@@ -89,4 +89,6 @@
     display: flex; 
     justify-content: center;
     padding-top: 2rem;
+    color:#1F2937;
+    font-size: 2em;
 }
