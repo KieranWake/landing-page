@@ -85,3 +85,8 @@
     object-fit: cover;
 }
 
+.title-two {
+    display: flex; 
+    justify-content: center;
+    
+}
