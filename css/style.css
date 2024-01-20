@@ -79,7 +79,7 @@
 
 
 .section-two {
-    background-color: antiquewhite;
+    background-color: white;
     margin-top: 0;
     min-height: 25rem;
     object-fit: cover;
@@ -88,7 +88,7 @@
 .title-two {
     display: flex; 
     justify-content: center;
-    padding-top: 2rem;
+    padding-top: 3rem;
     color:#1F2937;
     font-size: 2em;
 }
@@ -98,21 +98,22 @@
     justify-content: center;
     align-items: center;
     padding: 2rem;
-    margin: 3rem;
+    margin: 2rem;
+    gap: .5rem;
 }
 
 .image-one img {
-    max-width: 70%;
+    max-height: 12rem;
 }
 
 .image-two img {
-    max-width: 70%;
+    max-height: 12rem;
 }
 
 .image-three img {
-    max-width: 70%;
+    max-height: 12rem;
 }
 
 .image-four img {
-    max-width: 70%;
+    max-height: 12rem;
 }
