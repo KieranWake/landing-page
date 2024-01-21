@@ -93,7 +93,7 @@ a {
 .title-two {
     display: flex; 
     justify-content: center;
-    padding-top: 3rem;
+    padding-top: 5rem;
     color:#1F2937;
     font-size: 2em;
 }
@@ -127,3 +127,9 @@ a {
     max-height: 12rem;
 }
 
+.section-three {
+    background-color: #E5E7EB;
+    min-height: 30rem;
+    margin-top: 0; 
+    object-fit: cover;
+}
