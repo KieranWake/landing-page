@@ -138,8 +138,13 @@ a {
 .quote-one {
     font-size: 1.5em;
     font-style: italic;
-    margin: 5rem;
+    margin: 3rem;
     margin-top: 5rem;
     max-width: 75%;
     padding-left: 10rem;
+}
+
+.author-quote {
+    text-align: right;
+    max-width: 75%;
 }
