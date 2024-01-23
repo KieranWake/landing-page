@@ -162,7 +162,8 @@ a {
     background-color: blueviolet;
     color: white;
     min-height: 10rem;
-    min-width: 50%;
     margin: 8rem;
     padding: 5rem;
+    border-radius: .5rem;
 }
+
