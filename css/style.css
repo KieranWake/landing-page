@@ -165,5 +165,9 @@ a {
     margin: 8rem;
     padding: 5rem;
     border-radius: .5rem;
+    gap: 175px;
 }
 
+.left-content {
+    font-size: 1.25em;
+}
