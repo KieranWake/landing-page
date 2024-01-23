@@ -156,5 +156,8 @@ a {
 }
 
 .card-container {
-    
+    min-height: 20rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
