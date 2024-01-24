@@ -137,7 +137,7 @@ a {
 
 .quote-one {
     font-size: 1.5em;
-    font-style: italic;
+    font-style: normal;
     margin: 3rem;
     margin-top: 5rem;
     max-width: 75%;
@@ -187,4 +187,5 @@ a {
     border-radius: .5rem;
     border: 2px solid white;
     background-color: blueviolet;
+    cursor: pointer;
 }
