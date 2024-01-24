@@ -169,15 +169,22 @@ a {
 }
 
 .left-content {
-    font-size: 1.25em;
+    font-size: 1.15em;
     line-height: 35px;
 }
 
 .bold-text {
-    font-size: 1.75em;
+    font-size: 1.50em;
     font-weight: bold;
 }
 
 .button-two {
-    padding: .5rem;
+    color: white;
+    font-weight: bold;
+    font-size: 1.25em;
+    padding: .7rem;
+    width: 175px;
+    border-radius: .5rem;
+    border: 2px solid white;
+    background-color: blueviolet;
 }
