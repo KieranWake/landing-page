@@ -190,3 +190,11 @@ a {
     background-color: blueviolet;
     cursor: pointer;
 }
+
+.footer {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    min-height: 8rem;
+    background-color: #1F2937;
+}
