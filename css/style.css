@@ -177,3 +177,7 @@ a {
     font-size: 1.75em;
     font-weight: bold;
 }
+
+.button-two {
+    padding: .5rem;
+}
